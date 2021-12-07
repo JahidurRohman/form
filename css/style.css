@@ -1,0 +1,227 @@
+* {
+    margin: 0;
+    padding: 0:   
+}
+
+.form-box{
+    width: 100%;
+}
+
+/* .container{ */
+    /* width: 1140px; */
+    /* margin: 0px auto; */
+/* } */
+/*  */
+.box{
+    display: flex;
+}
+.box .left-side, .box .right-side{
+    flex-basis: 50%;
+}
+
+.box .left-side{
+    background: #141414;
+    /* width: 100%; */
+    padding: 130px 0;
+}
+
+
+
+
+
+ 
+ 
+ .left-content{
+    margin: 0px 100px;
+       
+}
+
+.left-content img {
+      width: 300px;
+      height: auto;
+      margin: 0px 0px 40px;
+}
+ 
+.left-content .h {
+    font-family: 'Readex Pro', sans-serif;
+    color: #6E6E6E;
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0px 0px 22px;
+}
+ 
+.left-content h2{
+    font-family: 'Readex Pro', sans-serif;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 500;
+    margin: 0px 0px 18px;
+}
+.left-content p{
+    font-family: 'Readex Pro', sans-serif;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 200;
+    margin: 0px 0px 24px;
+}
+ 
+.left-content button{
+    padding: 14px 22px;
+    border-radius: 5px;
+    background: #12CFE8;
+    border: none;
+}
+ 
+a {
+    text-decoration: none;
+}
+.left-content button a{
+    font-family: 'Readex Pro', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+}
+ 
+ .left-content button:hover{
+    background: #289DAF;
+    transition: 1s;
+ }
+ .right-side {
+    padding: 35px 0px;
+    background: linear-gradient(
+        35deg, #50A6AE, #375460);
+ }
+
+ .right-content{
+    width: 68%;
+    margin: auto;
+    padding: 40px;
+    background: #fff;
+    border-radius: 8px;
+ }
+
+ .right-content h1{
+    font-family: 'Readex Pro', sans-serif;
+    color: #6E6E6E;
+    font-size: 34px;
+    font-weight: 700;
+    margin: 40px 0px 62px;
+ }
+ .form h2{
+    background: #F4F4F4;
+    border-bottom: 1px solid gray;
+   
+    padding: 10px;
+    font-size: 20px;
+    color: #000;
+    font-weight: 500;
+    font-family: 'Readex Pro', sans-serif;
+ }
+ .help{
+    border: 1px solid lightgray;
+ }
+.form form {
+    padding: 0px 50px;
+}
+.email {
+    margin: 50px 0;
+}
+.email label{
+    margin: 0 65px 0 0;
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    font-family: 'Readex Pro', sans-serif;
+    }
+    
+.pass {
+    margin-bottom: 40px;
+}
+ .pass input{
+    margin: 0 0 0 34px;
+ }
+.pass label{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.form p {
+    display: inline-block;
+    margin: 0 0px 90px 0;
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    font-family: 'Readex Pro', sans-serif;
+    }
+    .form .btn{
+        padding: 8px 41px;
+        font-size: 28px;
+        background: #12CFE8;
+        color: #fff;
+        border: none;
+    }
+    .form .btn:hover{
+        background: #127B89;
+        transition: .5s;
+        cursor: pointer;
+    }
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+} 
+  
+  
+  
+  
+  
+  
+  
+} 
+  
+  
+  
+  
+  
+  
+   
+
+ 
+ 
+ 
+   
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
